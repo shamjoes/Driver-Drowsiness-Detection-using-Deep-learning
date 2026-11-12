@@ -1,0 +1,6 @@
+opencv-python>=4.6.0
+tensorflow>=2.10.0
+keras>=2.10.0
+numpy>=1.21.0
+scipy>=1.9.0
+pygame>=2.1.0
